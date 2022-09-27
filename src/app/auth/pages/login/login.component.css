@@ -1,0 +1,24 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    background-color: #e6eafc;
+    height: 100%;
+  }
+ .login {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+  }
+ .ancho {
+    width: 90%;
+  }
+ .boton {
+    height: 50px;
+  }
+  .spinner{
+    margin: 0 auto;
+  }
