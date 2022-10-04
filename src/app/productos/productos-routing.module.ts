@@ -9,8 +9,7 @@ import { ProductoComponent } from './pages/producto/producto.component';
 const routes: Routes = [
 
   {
-    path: '',
-    children: [
+    path: '', children: [
       {  path: 'agregar', component: AgregarComponent },
       {  path: 'editar', component: EditarComponent },
       {  path: 'listado', component: ListadoComponent },
